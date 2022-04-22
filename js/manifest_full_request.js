@@ -56,7 +56,8 @@ manifest = {
 
     var _this = this;
 
-    var person = data.label.en[0]
+    var person = data.label.en[0];
+    var personSummary = data.summary.en[0]
 
     var arr = [];
     // loop through items in person manifest
@@ -85,6 +86,7 @@ manifest = {
     viewerNav.push({
       'type' : 'collection',
       'person' : person,
+      'summary' : personSummary,
       'id' : _this.create_id_from_name(person),
       'data' : arr
     });
@@ -160,9 +162,19 @@ manifest = {
 
       $('#'+personId).bind("click", function(){
         $('#collections_'+personId).slideToggle();
+
+        _this.updatePersonInfoPanel(v);
       });
       
     });
+  },
+
+  updatePersonInfoPanel : function(person){
+    var name = person.person.replace('Collections for ','');
+    var summary = person.summary;
+    
+    $('#person_name').html(name);
+    $('#person_details').html(summary);
   },
 
   navigationListPersonCollections : function(personId, data){
