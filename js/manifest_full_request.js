@@ -62,7 +62,6 @@ manifest = {
     // loop through items in person manifest
     $.each(data.items, function(k, v){
       var type = v.label.en[0];
-      // console.log('Type ' + type)
 
       if(type == 'Journal articles') {
         res = _this.loadManifest(v);
@@ -146,7 +145,6 @@ manifest = {
   },
 
   navigationListPeople : function(){
-    console.log('render')
     _this = this;
 
     // loop each person
@@ -161,19 +159,9 @@ manifest = {
       _this.navigationListPersonCollections(personId, v);
 
       $('#'+personId).bind("click", function(){
-        console.log('test')
-        console.log(this.id)
         $('#collections_'+personId).slideToggle();
       });
-
-      // $('.manifests').bind("click", function(e){
-      //   console.log(this.id)
-      //   // console.log($(this).data("id"))
-      //   e.preventDefault();
-      // });
-
-
-
+      
     });
   },
 
@@ -197,12 +185,18 @@ manifest = {
 
       id = v.id.replace(/[^a-z0-9]|\s+|\r?\n|\r/gmi, "");
       id = "manifest_" + id;
-      str = '<li id="'+id+'" class="manifests" data-id="'+v.id+'">'+v.label+'</li>';
+      str = '<li id="'+id+'" class="manifests" data-type="'+collection_type+'" data-id="'+v.id+'">'+v.label+'</li>';
       
       $('#'+'manifest_'+collection_type+'_'+personId).append(str);
 
       $('#'+id).bind("click", function(e){
-        console.log($(this).data('id'))
+
+        var type = $(this).data('type');
+        var id = $(this).data('id');
+
+        if(type == 'journals') viewer.updateUV(id);
+        if(type == 'newspaper') viewer.updateOSD(id);
+
         e.preventDefault();
         return false;
       })

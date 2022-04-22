@@ -5,5 +5,5 @@ $(document).ready(function(){
   // nel.init();
   // nel.manifestRequest(url)
 
-  manifest.loadMainManifest(url)
+  manifest.loadMainManifest(url);
 });
