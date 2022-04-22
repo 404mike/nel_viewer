@@ -1,0 +1,24 @@
+#manifest_nav {
+  padding: 0 !important;
+}
+
+#manifest_nav ul{
+  padding: 2px 10px !important;
+}
+
+#manifest_nav ul li{
+  list-style-type: none;
+  cursor: pointer;
+}
+
+#manifest_nav ul li:hover{
+  background-color: rgb(72, 72, 72);
+}
+
+.manifests:hover{
+  background-color: #8d8d8d !important;
+}
+
+.person_collections {
+  display: none;
+}
