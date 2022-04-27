@@ -34,3 +34,11 @@
   height: 400px;
   float: right;
 }
+
+.article-segment.active {
+  background: rgba(255, 197, 59, .3);
+}
+
+.highlight-segment {
+  background: rgba(255, 127, 0, .5);
+}

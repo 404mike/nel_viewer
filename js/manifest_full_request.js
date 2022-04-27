@@ -191,6 +191,8 @@ manifest = {
 
     _this = this;
 
+    var name = data.person.replace('Collections for ','');
+
     $('#' + personId).append('<ul class="person_collections" id="collections_'+personId+'"></ul>');
 
     $.each(data.data, function(k, v){
@@ -198,7 +200,7 @@ manifest = {
       var id = v.collection_type+'_'+personId;
 
       $('#collections_'+personId).append('<li class="person_collections_list" id="'+ id +'">'+v.collection_type+'</li>');
-      _this.navigationListPersonCollectionsManifests(v.data, v.collection_type, personId);
+      _this.navigationListPersonCollectionsManifests(v.data, v.collection_type, personId, name);
 
       $('#'+id).bind("click", function(e){
         return false;
@@ -206,7 +208,7 @@ manifest = {
     });
   },
 
-  navigationListPersonCollectionsManifests : function(data, collection_type, personId){
+  navigationListPersonCollectionsManifests : function(data, collection_type, personId, name){
 
     $('#'+collection_type + '_' + personId).append('<ul id="manifest_'+collection_type+'_'+personId+'"></ul>');
 
@@ -214,7 +216,7 @@ manifest = {
 
       id = v.id.replace(/[^a-z0-9]|\s+|\r?\n|\r/gmi, "");
       id = "manifest_" + id;
-      str = '<li id="'+id+'" class="manifests" data-type="'+collection_type+'" data-id="'+v.id+'">'+v.label+'</li>';
+      str = '<li id="'+id+'" class="manifests" data-person="'+name+'" data-type="'+collection_type+'" data-id="'+v.id+'">'+v.label+'</li>';
       
       $('#'+'manifest_'+collection_type+'_'+personId).append(str);
 
@@ -224,7 +226,7 @@ manifest = {
         var id = $(this).data('id');
 
         if(type == 'journals') viewer.updateUV(id);
-        if(type == 'newspaper') viewer.updateOSD(id);
+        if(type == 'newspaper') viewer.updateOSD(id, name);
 
         e.preventDefault();
         return false;
