@@ -58,7 +58,9 @@ manifest = {
 
     var person = data.label.en[0];
     var personSummary = data.summary.en[0]
-
+    var personDescription = data.personDescription.en[0]
+    var personImage = data.personImage.en[0]
+    
     var arr = [];
     // loop through items in person manifest
     $.each(data.items, function(k, v){
@@ -87,6 +89,8 @@ manifest = {
       'type' : 'collection',
       'person' : person,
       'summary' : personSummary,
+      'description' : personDescription,
+      'image' : personImage,
       'id' : _this.create_id_from_name(person),
       'data' : arr
     });
@@ -174,7 +178,13 @@ manifest = {
     var summary = person.summary;
     
     $('#person_name').html(name);
-    $('#person_details').html(summary);
+    $('#person_details').html(person.description);
+
+    if(person.image.length > 0) {
+      $('#person_image').html('<img src="'+person.image+'" />')
+    }else{
+      $('#person_image').html('')
+    }
   },
 
   navigationListPersonCollections : function(personId, data){
@@ -184,8 +194,15 @@ manifest = {
     $('#' + personId).append('<ul class="person_collections" id="collections_'+personId+'"></ul>');
 
     $.each(data.data, function(k, v){
-      $('#collections_'+personId).append('<li class="person_collections_list" id="'+v.collection_type+'_'+personId+'">'+v.collection_type+'</li>');
+
+      var id = v.collection_type+'_'+personId;
+
+      $('#collections_'+personId).append('<li class="person_collections_list" id="'+ id +'">'+v.collection_type+'</li>');
       _this.navigationListPersonCollectionsManifests(v.data, v.collection_type, personId);
+
+      $('#'+id).bind("click", function(e){
+        return false;
+      });
     });
   },
 

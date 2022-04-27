@@ -29,3 +29,8 @@
   height: 668px;
   background:black;
 }
+
+#person_image img {
+  height: 400px;
+  float: right;
+}
