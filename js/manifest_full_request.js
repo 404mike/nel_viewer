@@ -173,7 +173,6 @@ manifest = {
 
   setNavigationListPeopleEvents: function(){
     for(key in peopleArr) {
-      var person = key;
       this.bindperson(key,peopleArr[key])
     }
   },
@@ -181,18 +180,21 @@ manifest = {
   bindperson: function(person,v){
 
     $('#'+person).bind("click", function(){
-      $('#collections_'+person).slideToggle();
+      $('#collections_'+person).slideToggle(function(){
+        if ($('#collections_'+person).is(':visible'))
+        {
+          var name = v.person.replace('Collections for ','');
 
-      var name = v.person.replace('Collections for ','');
-            
-      $('#person_name').html(name);
-      $('#person_details').html(v.description);
-  
-      if(v.image.length > 0) {
-        $('#person_image').html('<img src="'+v.image+'" />')
-      }else{
-        $('#person_image').html('')
-      }
+          $('#person_name').html(name);
+          $('#person_details').html(v.description);
+      
+          if(v.image.length > 0) {
+            $('#person_image').html('<img src="'+v.image+'" />')
+          }else{
+            $('#person_image').html('')
+          }
+        }
+      });
 
     });
   },
