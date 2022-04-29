@@ -1,6 +1,7 @@
 // Viewer nav
 var viewerNav = [];
 var manifests = [];
+var peopleArr = {};
 
 manifest = {
 
@@ -164,27 +165,36 @@ manifest = {
       // loop each data
       _this.navigationListPersonCollections(personId, v);
 
-      $('#'+personId).bind("click", function(){
-        $('#collections_'+personId).slideToggle();
-
-        _this.updatePersonInfoPanel(v);
-      });
-      
+      peopleArr[personId] = v;      
     });
+
+    this.setNavigationListPeopleEvents();
   },
 
-  updatePersonInfoPanel : function(person){
-    var name = person.person.replace('Collections for ','');
-    var summary = person.summary;
-    
-    $('#person_name').html(name);
-    $('#person_details').html(person.description);
-
-    if(person.image.length > 0) {
-      $('#person_image').html('<img src="'+person.image+'" />')
-    }else{
-      $('#person_image').html('')
+  setNavigationListPeopleEvents: function(){
+    for(key in peopleArr) {
+      var person = key;
+      this.bindperson(key,peopleArr[key])
     }
+  },
+
+  bindperson: function(person,v){
+
+    $('#'+person).bind("click", function(){
+      $('#collections_'+person).slideToggle();
+
+      var name = v.person.replace('Collections for ','');
+            
+      $('#person_name').html(name);
+      $('#person_details').html(v.description);
+  
+      if(v.image.length > 0) {
+        $('#person_image').html('<img src="'+v.image+'" />')
+      }else{
+        $('#person_image').html('')
+      }
+
+    });
   },
 
   navigationListPersonCollections : function(personId, data){

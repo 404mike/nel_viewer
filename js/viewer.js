@@ -63,7 +63,7 @@ viewer = {
   },
 
   panToArticle: function(manifest) {
-    console.log(manifest)
+    // console.log(manifest)
     var manifestUrlparts = manifest.split('/');
     var articleParts = manifestUrlparts[8].split('-');
     var pid = articleParts[2];
@@ -81,7 +81,7 @@ viewer = {
       var id = v['id'];
 
       if(id == art) {
-        console.log(v)
+        // console.log(v)
         blocks.push(v['textBlocks'])
       }
     });
@@ -123,8 +123,8 @@ viewer = {
         }
     }
 
-    console.log('LOOOK')
-    console.log(startX + ' ' + startY + ' ' + finalX + ' ' +  finalY)
+    // console.log('LOOOK')
+    // console.log(startX + ' ' + startY + ' ' + finalX + ' ' +  finalY)
     // Add some padding the the article area
     region = new OpenSeadragon.Rect(startX - 0.01, startY - 0.01, finalX + 0.02, finalY + 0.02);
     osd.viewport.fitBounds(region);
