@@ -2,7 +2,7 @@
 
 class ParseManifest {
 
-  private $url = "https://404mike.github.io/nel_results/data/manifests/62599b02598a4/full-index.json";
+  private $url = "https://404mike.github.io/nel_results/data/manifests/62599b02598a4/index.json";
 
   private $arr = [];
 
@@ -17,7 +17,8 @@ class ParseManifest {
 
     $this->parseCollection($data['items']);
 
-    print_r($this->arr);
+    //print_r($this->arr);
+    file_put_contents('all.json',json_encode($this->arr,JSON_PRETTY_PRINT));
   }
 
   private function parseCollection($data)
@@ -37,8 +38,9 @@ class ParseManifest {
   private function loadPersonManifest($data)
   {
     $person = $data['label']['en'][0];
+    $personDescription = $data['personDescription']['en'][0];
+    $personImage = $data['personImage']['en'][0];
 
-    // print_r($data);
     $arr = [];
     foreach($data['items'] as $k => $v) {
       $type = $v['label']['en'][0];
@@ -71,7 +73,13 @@ class ParseManifest {
       }
     }
 
-    $this->arr[] = ['type' => 'collection', 'person' => $person, 'data' => $arr];
+    $this->arr[] = [
+      'type' => 'collection', 
+      'person' => $person,
+      'personDescription' => $personDescription,
+       'personImage' => $personImage,
+      'data' => $arr
+    ];
   }
 
   private function loadManifest($newspapers)
