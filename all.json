@@ -1,0 +1,1126 @@
+[
+    {
+        "type": "collection",
+        "person": "Collections for Gwen John",
+        "personDescription": "Welsh painter (1876-1939)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/69\/Gwen_John_-_Self-portrait_%281900%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1083764\/manifest.json"
+                    },
+                    {
+                        "label": "1968-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1283304\/manifest.json"
+                    },
+                    {
+                        "label": "1902-02-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2787225\/manifest.json"
+                    },
+                    {
+                        "label": "1987-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1422650\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1919-04-25",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3716610-modsarticle15-3716612-1-ART15.json"
+                    },
+                    {
+                        "label": "1899-08-11",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3342935-modsarticle32-3342938-1-ART32.json"
+                    },
+                    {
+                        "label": "1899-08-11",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3342935-modsarticle32-3342938-1-ART32.json"
+                    },
+                    {
+                        "label": "1917-12-29",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/4123561-modsarticle64-4123565-1-ART65.json"
+                    },
+                    {
+                        "label": "1898-05-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3275731-modsarticle30-3275734-1-ART30.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Nina Hamnett",
+        "personDescription": "Welsh painter (1890\u20131956)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Nina_Hamnett.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1958-12-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217551\/manifest.json"
+                    },
+                    {
+                        "label": "1959-09-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1218158\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Augustus John",
+        "personDescription": "Welsh painter (1878-1961)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Augustus_John_by_George_Charles_Beresford_%281902%29_%28NPG_x13487%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1984-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1421693\/manifest.json"
+                    },
+                    {
+                        "label": "1962-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415849\/manifest.json"
+                    },
+                    {
+                        "label": "1926-05-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1316283\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1916-05-16",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/4101532-modsarticle22-4101533-1-ART22.json"
+                    },
+                    {
+                        "label": "1916-03-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/4101182-modsarticle117-4101187-1-ART117.json"
+                    },
+                    {
+                        "label": "1917-12-27",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/4104448-modsarticle38-4104450-1-ART38.json"
+                    },
+                    {
+                        "label": "1916-02-25",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/3413160-modsarticle62-3413166-1-ART63.json"
+                    },
+                    {
+                        "label": "1917-06-21",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/4103632-modsarticle16-4103633-1-ART16.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for James Dickson Innes",
+        "personDescription": "British painter (1887-1914)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/James_Dickson_Innes.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1906-04-06",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3404191\/newspaper\/3584136-modsarticle22-3584140-1-ART23.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Alfred Janes",
+        "personDescription": "painter (1911-1999)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1968-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1283304\/manifest.json"
+                    },
+                    {
+                        "label": "1992-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276229\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Andrew Vicari",
+        "personDescription": "Welsh painter (1938-2016)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/78\/Andrew_Vicari_at_the_Celtic_Manor_%28cropped%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1959-04-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217883\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Carey Morris",
+        "personDescription": "British artist (1882-1968)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/Carey-Morris.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1925-06-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1315906\/manifest.json"
+                    },
+                    {
+                        "label": "1914-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311206\/manifest.json"
+                    },
+                    {
+                        "label": "1923-08-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1315146\/manifest.json"
+                    },
+                    {
+                        "label": "1925-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1400440\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1910-12-09",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/3349376-modsarticle75-3349380-1-ART75.json"
+                    },
+                    {
+                        "label": "1910-12-09",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/3349376-modsarticle75-3349380-1-ART75.json"
+                    },
+                    {
+                        "label": "1908-12-04",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/3645268-modsarticle7-3645269-1-ART9.json"
+                    },
+                    {
+                        "label": "1918-05-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/4105035-modsarticle37-4105037-1-ART37.json"
+                    },
+                    {
+                        "label": "1910-08-26",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/3363228-modsarticle110-3363234-1-ART111.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Christopher Williams",
+        "personDescription": "Welsh artist (1873-1934)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b4\/Self_Portrait_%28gcf02743%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1890-11-22",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/newspaper\/4322484-modsarticle4-4322485-1-ART4.json"
+                    },
+                    {
+                        "label": "1885-06-23",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/newspaper\/4230875-modsarticle9-4230877-1-ART9.json"
+                    },
+                    {
+                        "label": "1910-05-07",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/newspaper\/3380210-modsarticle70-3380213-1-ART70.json"
+                    },
+                    {
+                        "label": "1885-06-23",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/newspaper\/4230880-modsarticle9-4230882-1-ART9.json"
+                    },
+                    {
+                        "label": "1894-01-16",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/newspaper\/3241406-modsarticle76-3241409-1-ART77.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1908-10-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2408550\/manifest.json"
+                    },
+                    {
+                        "label": "1914-05-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311424\/manifest.json"
+                    },
+                    {
+                        "label": "1914-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311206\/manifest.json"
+                    },
+                    {
+                        "label": "1984-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1327555\/manifest.json"
+                    },
+                    {
+                        "label": "1978-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1326905\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for George Frederick Harris",
+        "personDescription": "Welsh artist; moved to Australia 1920",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/60\/Portrait_of_a_Man_%28gcf05119%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1880-02-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2094382\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1869-05-29",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/3096423-modsarticle52-3096430-1-ART52.json"
+                    },
+                    {
+                        "label": "1910-10-01",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/3815834-modsarticle116-3815845-1-ART119.json"
+                    },
+                    {
+                        "label": "1880-02-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/3309701-modsarticle107-3309708-1-ART108.json"
+                    },
+                    {
+                        "label": "1878-01-25",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/3077147-modsarticle10-3077149-1-ART10.json"
+                    },
+                    {
+                        "label": "1869-05-29",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/3074921-modsarticle8-3074924-1-ART8.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Ivor Davies",
+        "personDescription": "Welsh artist",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1937-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4737663\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Kyffin Williams",
+        "personDescription": "Welsh landscape painter (1918-2006)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e8\/Cerflun_Kyffin_Williams_statue.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1083764\/manifest.json"
+                    },
+                    {
+                        "label": "1994-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276399\/manifest.json"
+                    },
+                    {
+                        "label": "1958-09-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217316\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Margaret Lindsay Williams",
+        "personDescription": "Welsh painter (1888-1960)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0e\/Margaret_Lindsay_Williams_%26_painting_of_Warren_G._Harding.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1425397\/manifest.json"
+                    },
+                    {
+                        "label": "1929-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1377331\/manifest.json"
+                    },
+                    {
+                        "label": "1914-04-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311369\/manifest.json"
+                    },
+                    {
+                        "label": "1915-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311804\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1918-05-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/4105035-modsarticle37-4105037-1-ART37.json"
+                    },
+                    {
+                        "label": "1910-09-24",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/3416177-modsarticle81-3416181-1-ART81.json"
+                    },
+                    {
+                        "label": "1906-10-12",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/3661735-modsarticle38-3661738-1-ART38.json"
+                    },
+                    {
+                        "label": "1914-07-17",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/4128633-modsarticle33-4128639-1-ART34.json"
+                    },
+                    {
+                        "label": "1914-04-17",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/3678163-modsarticle10-3678165-1-ART10.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Nicholas Evans",
+        "personDescription": "British artist (1907-2004)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1992-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1328421\/manifest.json"
+                    },
+                    {
+                        "label": "1997-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1175979\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Pixie O'Harris",
+        "personDescription": "Australian artist (1903-1991)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1996-04-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1339634\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Thomas Brigstocke",
+        "personDescription": "British artist (1809-1881)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/Thomas_Brigstocke.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1962-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415849\/manifest.json"
+                    },
+                    {
+                        "label": "1956-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1093764\/manifest.json"
+                    },
+                    {
+                        "label": "1967-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1283058\/manifest.json"
+                    },
+                    {
+                        "label": "1968-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4745323\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1854-03-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/3054110-modsarticle27-3054113-1-ART27.json"
+                    },
+                    {
+                        "label": "1866-10-05",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/3056146-modsarticle2-3056147-1-ART2.json"
+                    },
+                    {
+                        "label": "1866-09-28",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/3056141-modsarticle2-3056142-1-ART2.json"
+                    },
+                    {
+                        "label": "1866-04-27",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/3056036-modsarticle2-3056037-1-ART2.json"
+                    },
+                    {
+                        "label": "1866-05-04",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/3056041-modsarticle2-3056042-1-ART2.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Will Roberts",
+        "personDescription": "British artist (1907-2000)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1910-03-11",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q8003042\/newspaper\/3649580-modsarticle52-3649585-1-ART53.json"
+                    },
+                    {
+                        "label": "1914-01-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q8003042\/newspaper\/3579005-modsarticle106-3579012-1-ART108.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Thomas Tudor",
+        "personDescription": "land agent and artist (1785-1885)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/82\/ThomasTudor.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1895-06-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2098253\/manifest.json"
+                    },
+                    {
+                        "label": "1878-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/3003538\/manifest.json"
+                    },
+                    {
+                        "label": "1912-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1240100\/manifest.json"
+                    },
+                    {
+                        "label": "1986-09-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1338663\/manifest.json"
+                    },
+                    {
+                        "label": "1905-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2471278\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1887-06-11",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/4592486-modsarticle26-4592490-1-ART26.json"
+                    },
+                    {
+                        "label": "1891-05-09",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/4592920-modsarticle49-4592926-1-ART50.json"
+                    },
+                    {
+                        "label": "1832-11-17",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/3391715-modsarticle9-3391717-1-ART9.json"
+                    },
+                    {
+                        "label": "1899-05-26",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/3316573-modsarticle62-3316580-1-ART63.json"
+                    },
+                    {
+                        "label": "1906-02-07",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/4160535-modsarticle31-4160537-1-ART31.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Ken Elias",
+        "personDescription": "Welsh artist",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1385277\/manifest.json"
+                    },
+                    {
+                        "label": "2003-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1385913\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Hugh Hughes",
+        "personDescription": "British painter",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/Hugh_Hughes.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1915-01-01",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3412622-modsarticle15-3412623-1-ART15.json"
+                    },
+                    {
+                        "label": "1903-05-01",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3407884-modsarticle89-3407892-1-ART89.json"
+                    },
+                    {
+                        "label": "1905-03-24",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3417596-modsarticle48-3417602-1-ART48.json"
+                    },
+                    {
+                        "label": "1905-06-16",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3408919-modsarticle57-3408927-1-ART58.json"
+                    },
+                    {
+                        "label": "1905-06-16",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3408919-modsarticle57-3408927-1-ART58.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1892-06-10",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016494\/manifest.json"
+                    },
+                    {
+                        "label": "1892-03-18",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016290\/manifest.json"
+                    },
+                    {
+                        "label": "1892-03-04",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016256\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Edward Pugh",
+        "personDescription": "Welsh painter and writer",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1887-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2111116\/manifest.json"
+                    },
+                    {
+                        "label": "1904-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1239114\/manifest.json"
+                    },
+                    {
+                        "label": "1999-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1272050\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1908-02-04",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/3870457-modsarticle88-3870464-1-ART91.json"
+                    },
+                    {
+                        "label": "1876-09-02",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/4582251-modsarticle41-4582257-1-ART42.json"
+                    },
+                    {
+                        "label": "1877-04-14",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/3854472-modsarticle13-3854477-1-ART13.json"
+                    },
+                    {
+                        "label": "1880-04-24",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/3364231-modsarticle148-3364239-1-ART148.json"
+                    },
+                    {
+                        "label": "1866-11-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/3856053-modsarticle51-3856058-1-ART51.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Roger Cecil",
+        "personDescription": "Welsh painter",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1962-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415636\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for John Wheatley",
+        "personDescription": "Welsh painter and engraver",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1902-12-18",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19921507\/newspaper\/3491978-modsarticle14-3491980-1-ART14.json"
+                    },
+                    {
+                        "label": "1902-12-18",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19921507\/newspaper\/3491963-modsarticle13-3491965-1-ART13.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for R. K. Penson",
+        "personDescription": "Welsh architect",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1859-10-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2994356\/manifest.json"
+                    },
+                    {
+                        "label": "1992-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276229\/manifest.json"
+                    },
+                    {
+                        "label": "1990-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1099180\/manifest.json"
+                    },
+                    {
+                        "label": "1886-07-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2095618\/manifest.json"
+                    },
+                    {
+                        "label": "1851-10-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2990655\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1854-04-14",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/3054143-modsarticle1-3054144-1-ART1.json"
+                    },
+                    {
+                        "label": "1854-03-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/3054110-modsarticle1-3054111-1-ART1.json"
+                    },
+                    {
+                        "label": "1855-09-14",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4348636-modsarticle2-4348638-1-ART2.json"
+                    },
+                    {
+                        "label": "1851-02-07",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4347319-modsarticle1-4347320-1-ART1.json"
+                    },
+                    {
+                        "label": "1851-02-07",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4347319-modsarticle1-4347320-1-ART1.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Samuel Maurice Jones",
+        "personDescription": "Welsh artist",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/75\/Portrait_of_Samuel_Morris_Jones_%284674452%29.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1889-05-31",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20734392\/newspaper\/3765822-modsarticle111-3765830-1-ART112.json"
+                    },
+                    {
+                        "label": "1890-03-07",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20734392\/newspaper\/3766155-modsarticle120-3766163-1-ART121.json"
+                    },
+                    {
+                        "label": "1891-08-14",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20734392\/newspaper\/3172048-modsarticle3-3172050-1-ART3.json"
+                    },
+                    {
+                        "label": "1891-01-16",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20734392\/newspaper\/3171894-modsarticle21-3171897-1-ART22.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Isaac John Williams",
+        "personDescription": "first Keeper of Art at the National Museum of Wales",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1983-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1421422\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1917-01-06",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3580418-modsarticle22-3580421-1-ART23.json"
+                    },
+                    {
+                        "label": "1915-07-03",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/4614614-modsarticle43-4614617-1-ART44.json"
+                    },
+                    {
+                        "label": "1878-02-15",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3558030-modsarticle56-3558036-1-ART56.json"
+                    },
+                    {
+                        "label": "1916-07-22",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3612073-modsarticle9-3612075-1-ART9.json"
+                    },
+                    {
+                        "label": "1895-12-06",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3565869-modsarticle64-3565877-1-ART64.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Alfred Oliver",
+        "personDescription": "British painter (1868-1943)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1909-02-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/newspaper\/4200404-modsarticle17-4200406-1-ART17.json"
+                    },
+                    {
+                        "label": "1909-02-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/newspaper\/4200419-modsarticle17-4200421-1-ART17.json"
+                    },
+                    {
+                        "label": "1909-06-17",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/newspaper\/3836418-modsarticle51-3836422-1-ART51.json"
+                    },
+                    {
+                        "label": "1909-02-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/newspaper\/4200379-modsarticle37-4200381-1-ART37.json"
+                    },
+                    {
+                        "label": "1909-02-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/newspaper\/4200384-modsarticle36-4200386-1-ART36.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for James Flewitt Mullock",
+        "personDescription": "British painter (1818-1892)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1999-04-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1340020\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1892-01-09",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3429242-modsarticle65-3429246-1-ART65.json"
+                    },
+                    {
+                        "label": "1887-03-11",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3672572-modsarticle9-3672574-1-ART9.json"
+                    },
+                    {
+                        "label": "1892-01-08",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3722053-modsarticle20-3722057-1-ART20.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Elinor Evans",
+        "personDescription": "Welsh painter",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1995-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1328828\/manifest.json"
+                    },
+                    {
+                        "label": "1990-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1196881\/manifest.json"
+                    },
+                    {
+                        "label": "1984-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1097087\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Joan Baker",
+        "personDescription": "British artist, teacher\u00a0(1922\u20132017)",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1990-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1196881\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for John Cambrian Rowland",
+        "personDescription": "painter",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1853-07-01",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21460680\/newspaper\/4462290-modsarticle28-4462295-1-ART28.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for Vincent Evans",
+        "personDescription": "Welsh artist",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "newspaper",
+                "data": [
+                    {
+                        "label": "1897-02-27",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/3431186-modsarticle8-3431187-1-ART8.json"
+                    },
+                    {
+                        "label": "1908-06-13",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/3378927-modsarticle35-3378929-1-ART35.json"
+                    },
+                    {
+                        "label": "1909-01-15",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/3064813-modsarticle17-3064815-1-ART17.json"
+                    },
+                    {
+                        "label": "1915-08-06",
+                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/4243087-modsarticle49-4243093-1-ART52.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "2002-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1426329\/manifest.json"
+                    },
+                    {
+                        "label": "1919-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4728335\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "collection",
+        "person": "Collections for David Mainwaring",
+        "personDescription": "Welsh artist",
+        "personImage": "",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1986-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1327777\/manifest.json"
+                    },
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1329235\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    }
+]

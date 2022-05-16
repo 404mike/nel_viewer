@@ -48,18 +48,22 @@ viewer = {
     
 
     mainTileSource = 'https://newspapers.library.wales/iiif/2.0/image/'+pid+'/info.json';
+    console.log(mainTileSource)
 
     $('#uv').hide();
     $('#osd').show();
 
-    osd.addTiledImage({
-      tileSource: mainTileSource
-    });
+    osd.open(mainTileSource)
+    // osd.addTiledImage({
+    //   tileSource: mainTileSource
+    // });
 
     var boundaries = 'https://newspapers.library.wales/json/viewarticledata/llgc-id%3A' + pid;
 
-    this.loadAnnotation(osd, json, boundaries, name, pid);
-    this.panToArticle(manifest);
+    setTimeout(function(){
+      _this.loadAnnotation(osd, json, boundaries, name, pid);
+      _this.panToArticle(manifest);
+    },1000)
   },
 
   panToArticle: function(manifest) {
@@ -232,6 +236,10 @@ viewer = {
       dataType: 'json',
       success: function (json) {
         res = json;
+      },
+      error: function(e) {
+        console.log('couldnt load')
+        console.log(e)
       }
     });
 

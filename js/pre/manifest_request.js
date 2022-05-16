@@ -46,7 +46,6 @@ manifest = {
   parsePerson : function(person){
     // get manifest for this person
     var response = this.manifestRequest(person);
-    console.log(response);
 
     // parse manifest for this person loadPersonManifest()
     this.loadPersonManifest(response);
@@ -119,7 +118,7 @@ manifest = {
 
     // loop items
     $.each(data, function(k, v){
-      console.log(v)
+      // console.log(v)
       arr.push({
         'label': v.label,
         'id' : v.id
@@ -190,7 +189,7 @@ manifest = {
           var name = v.person.replace('Collections for ','');
 
           $('#person_name').html(name);
-          $('#person_details').html(v.description);
+          $('#person_details').html(v.summary);
       
           if(v.image.length > 0) {
             $('#person_image').html('<img src="'+v.image+'" />')
@@ -231,7 +230,7 @@ manifest = {
     $.each(data, function(k, v){
 
       id = v.id.replace(/[^a-z0-9]|\s+|\r?\n|\r/gmi, "");
-      id = "manifest_" + id;
+      id = "manifest_" + id + "_" + personId;
       str = '<li id="'+id+'" class="manifests" data-person="'+name+'" data-type="'+collection_type+'" data-id="'+v.id+'">'+v.label+'</li>';
       
       $('#'+'manifest_'+collection_type+'_'+personId).append(str);
@@ -240,7 +239,6 @@ manifest = {
 
         var type = $(this).data('type');
         var id = $(this).data('id');
-
         if(type == 'journals') viewer.updateUV(id);
         if(type == 'newspaper') viewer.updateOSD(id, name);
 
