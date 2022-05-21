@@ -24,6 +24,12 @@ manifest = {
 
     // output data
     this.navigationListPeople();
+
+    setTimeout(function(){
+      if($('.person').length == 1) {
+        $('.person').click();
+      }
+    },800)
   },
 
   /**
