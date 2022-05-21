@@ -85,7 +85,14 @@ manifest = {
           'data' : res
         });
       }
-      if(type == 'Works') {}
+      if(type == 'works') {
+        res = _this.loadManifest(v.data);
+        arr.push({
+          'type' : 'collection',
+          'collection_type' : 'works',
+          'data' : res
+        });
+      } 
     });
 
     viewerNav.push({
@@ -241,6 +248,7 @@ manifest = {
         var id = $(this).data('id');
         if(type == 'journals') viewer.updateUV(id);
         if(type == 'newspaper') viewer.updateOSD(id, name);
+        if(type == 'works') viewer.updateUV(id);
 
         e.preventDefault();
         return false;
