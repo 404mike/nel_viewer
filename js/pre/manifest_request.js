@@ -198,7 +198,7 @@ manifest = {
           $('#person_name').html(name);
           $('#person_details').html(v.summary);
       
-          if(v.image.length > 0) {
+          if(v.image.length > 0 || v.image != '') {
             $('#person_image').html('<img src="'+v.image+'" />')
           }else{
             $('#person_image').html('')
